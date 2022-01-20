@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleShooting.unity
+    guid: 98ac0f7da81c1be4490816764d905447
+  - enabled: 1
+    path: Assets/Scenes/SampleShooting 1.unity
+    guid: 41ef97f05bfb02a438e36a424ebd30c1
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/otehonn.unity
+    guid: c0942f8dca9dfe6419a654b5ba9d7978
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 8bce6abfdd7ea2d45aba5d93710fba19
+  - enabled: 1
+    path: Assets/Scenes/Exercise.unity
+    guid: 5646444c1a5060845af015b83d1b06e3
+  - enabled: 1
+    path: "Assets/Scenes/\u8AB2\u984C.unity"
+    guid: 6d24ead5879f991419e84b898f1407e7
+  - enabled: 1
+    path: Assets/Scenes/UISample.unity
+    guid: 982f4395df85d1f49be6393602c6b4c9
+  - enabled: 1
+    path: Assets/Scenes/TimerSample.unity
+    guid: dd3314142c04ec44d8ac02f799f0875d
+  - enabled: 1
+    path: Assets/Scenes/SceneForClass.unity
+    guid: bc9eee0e15bc50649ada8cc8e6b8721e
+  - enabled: 1
+    path: Assets/Scenes/SampleTitle.unity
+    guid: aeef6c26e9a4c7b4fafe87db2c2edc07
+  m_configObjects: {}
